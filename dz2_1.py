@@ -1,0 +1,5 @@
+example_1 = type(15 * 3)
+example_2 = type(15 / 3)
+example_3 = type(15 // 2)
+example_4 = type(15 **2)
+print(example_1, example_2, example_3, example_4)
